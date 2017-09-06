@@ -2,6 +2,7 @@
   font-family: verdana;
   background-color: black;
   text-align: center;
+  color: white;
 }
 .headertitle {
   font-weight: Normal;
@@ -10,7 +11,7 @@
   text-align: center;
 }
 a {
-  color: acquamarine;
+  color: aquamarine;
   font-size: 16px;
 }
 .middle-title {
@@ -20,4 +21,14 @@ a {
 .descparag {
   font-size: 21px;
   color: gray;
+}
+.bottomtag {
+  text-align: right;
+  color: grey;
+}
+.maincontent{
+  justify-content: center;
+}
+.phonepic {
+
 }
