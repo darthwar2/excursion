@@ -1,0 +1,23 @@
+* {
+  font-family: verdana;
+  background-color: black;
+  text-align: center;
+}
+.headertitle {
+  font-weight: Normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+a {
+  color: acquamarine;
+  font-size: 16px;
+}
+.middle-title {
+  font-weight: 300;
+  font-size: 42px;
+}
+.descparag {
+  font-size: 21px;
+  color: gray;
+}
